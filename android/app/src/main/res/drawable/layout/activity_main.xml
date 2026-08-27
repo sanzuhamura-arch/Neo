@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#0B0B0F">
+
+    <TextView
+        android:id="@+id/neoTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NEO"
+        android:textColor="#FFFFFF"
+        android:textSize="38sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/neoSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Social"
+        android:textColor="#A78BFA"
+        android:textSize="20sp" />
+
+</LinearLayout>

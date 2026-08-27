@@ -1,4 +1,3 @@
-
 package com.neo.social;
 
 import android.app.Activity;

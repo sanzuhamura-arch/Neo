@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- NEO Dark Theme -->
+    <color name="neo_background">#0B0B0F</color>
+    <color name="neo_surface">#15151C</color>
+    <color name="neo_surface_light">#20202A</color>
+
+    <!-- Brand -->
+    <color name="neo_primary">#7C3AED</color>
+    <color name="neo_primary_light">#A78BFA</color>
+
+    <!-- Text -->
+    <color name="neo_white">#FFFFFF</color>
+    <color name="neo_text">#F4F4F5</color>
+    <color name="neo_text_secondary">#A1A1AA</color>
+
+    <!-- Borders -->
+    <color name="neo_border">#27272A</color>
+
+</resources>
